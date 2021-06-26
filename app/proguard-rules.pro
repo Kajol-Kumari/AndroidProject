@@ -35,9 +35,7 @@
 -dontwarn com.google.j2objc.annotations.**
 -keep class com.google.j2objc.annotations.** { *; }
 -dontwarn java.lang.ClassValue
--keep class java.lang.ClassValue { *; }
 -dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
--keep class org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement { *; }
 
 # For SearchView in appcompat
 -keep class android.support.v7.widget.SearchView { *; }

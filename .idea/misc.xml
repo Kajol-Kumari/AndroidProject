@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.24635416666666668" />
         <entry key="app/src/main/res/drawable/widget_shape.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/budget_view_activity.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/transaction_view_activity.xml" value="0.16770833333333332" />
       </map>
     </option>
   </component>

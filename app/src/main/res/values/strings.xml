@@ -1,7 +1,7 @@
 <resources
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Budget Manager</string>
+    <string name="app_name">Budget Tracker</string>
     <string name="icon">icon</string>
     <string name="budgetsTitle">Budgets</string>
     <string name="addBudgetTitle">Add Budget</string>
@@ -18,7 +18,7 @@
     <string name="viewRevenueTransactionTitle">View Revenue</string>
     <string name="importExportTitle">Import/Export</string>
     <string name="totalBudgetTitle">Total</string>
-    <string name="addShortcutsTitle">Add Budget Manager Shortcut</string>
+    <string name="addShortcutsTitle">Add Budget Tracker Shortcut</string>
     <string name="addExpenseTransactionShortcutTitle">Add Expense Shortcut</string>
     <string name="addRevenueTransactionShortcutTitle">Add Revenue Shortcut</string>
 
@@ -98,7 +98,7 @@
     <string name="pictureCaptureError">Unable to capture image with camera</string>
     <string name="noCameraPermissionError">Unable to capture receipt without the camera permission</string>
 
-    <string name="iconDescription">BudgetManager icon</string>
+    <string name="iconDescription">BudgetTracker icon</string>
     <string name="addExpenseDescription">Add an expense transaction</string>
 
     <string name="about">About</string>
@@ -135,7 +135,7 @@
     <string name="importOptionFilesystemExplanation">Choose a specific file from the filesystem.</string>
     <string name="importOptionFilesystemButton">From filesystem</string>
     <string name="importOptionApplicationTitle">Import from filesystem</string>
-    <string name="importOptionApplicationExplanation">Use an external application like Dropbox, Google Drive, or your favorite file manager to open a file.</string>
+    <string name="importOptionApplicationExplanation">Use an external application like Dropbox, Google Drive, or your favorite file Tracker to open a file.</string>
     <string name="importOptionApplicationButton">Use external application</string>
     <string name="importOptionFixedTitle">Import from export location</string>
     <string name="importOptionFixedExplanation">Import from the same location on the filesystem that is written to on export.</string>
